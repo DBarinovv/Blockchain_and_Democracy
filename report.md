@@ -1,14 +1,14 @@
-# Облачная демократия
+# Демократия в блокчейне
 
 ## Общее описание темы
 Блокчейн-технологии всё чаще рассматриваются как средство для организации выборов, благодаря их способности надёжно и неизменяемо записывать данные. Эти технологии предотвращают мошенничество и позволяют каждому участнику проверять корректность процесса. Однако существует ряд проблем, связанных с масштабированием, безопасностью данных, потенциальной централизацией управления и не только
 
 ## Проблематика
 1. **Безопасность данных**: Несмотря на преимущества блокчейна, остаются вопросы конфиденциальности и защиты личных данных участников
-> Despite the advantages, there are significant challenges including data privacy concerns, scalability of the blockchain technology, and the risk of digital inequalities affecting voter access
+> ...indicates scalability and voter privacy as leading concerns, with a significant percentage of studies highlighting these issues
 
-2. **Скалируемость**: Сложности с масштабированием технологии для крупных национальных выборов
-> The PoW protocol is operated by those active users who sacrifice significant computing resources to participate in the integration of new blocks. They solve a complex computing problem (called mining) and broadcast the result in a way that any other participants can check the validity of the solution in an easy and quick way and they can verify the solution for the public
+2. **Масштабируемость**: Сложности с масштабированием технологии для крупных национальных выборов
+> The PoW protocol is operated by those active users who sacrifice significant computing resources to participate in the integration of new blocks
 
 3. **Централизация и контроль**: Риски централизации и контроля, особенно связанные с возможностью атаки 51%
 > The Bitcoin system, however, does not work, if the majority (at least 51%) of the participants decide to cooperate in a cheating action. If the network is big enough, even large consortiums have much less than 51% of the power   
